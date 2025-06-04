@@ -1,5 +1,5 @@
 <h2 align="center">
-  GEEadas: GEE-based Automatic Detection of Adverse-frost Stress
+  Frost damage detection on corn second season
 </h2>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <a><img src="" alt="Markdownify" width="450"></a>
+  <a><img src="https://github.com/agrirslabinpe/Frost-damage-corn-detection/blob/main/Images/Flowchart.png" alt="Markdownify" width="450"></a>
 </h1>
 
 ## Algorithms:
