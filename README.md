@@ -1,5 +1,5 @@
 <h2 align="center">
-  Frost damage detection on corn second season
+  GEEadas: GEE-based Automatic Detection of Adverse-frost Stress
 </h2>
 
 <p align="center">
